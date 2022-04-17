@@ -24,33 +24,43 @@ The purpose of this analysis was to determine what kind of machine learning mode
 - SMOTE Oversampling
 
 ![image2](resources/SMOTE_Oversampling.PNG)
+
     - Accuracy score: 0.63
     - Precision score: 0.99
     - Recall score: 0.63
+    
 - Undersampling
 
 ![image3](resources/Undersampling.PNG)
+
     - Accuracy score: 0.51
     - Precision score: 0.99
     - Recall score: 0.44
+    
 - Combination Sampling
 
 ![image4](resources/Combination_Sampling.PNG)
+
     - Accuracy score: 0.64
     - Precision score: 0.99
     - Recall score: 0.58
+    
 - Balanced Random Forest Ensemble
 
 ![image5](resources/Balanced_Random_Forest.PNG)
+
     - Accuracy score: 0.79
     - Precision score: 0.99
     - Recall score: 0.91
+    
 - Easy Ensemble Classifier
 
 ![image6](resources/Easy_Ensemble_Classifier.PNG)
+
     - Accuracy score: 0.93
     - Precision score: 0.99
     - Recall score: 0.94
+
 
 ## Summary
 
