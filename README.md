@@ -14,6 +14,7 @@ The purpose of this analysis was to determine what kind of machine learning mode
 ## Results
 
 - Naive Random Oversampling
+
 ![image1](resources/Naive_Random_Oversampling.PNG)
     - Accuracy score: 0.63
     - Precision score: 0.99
