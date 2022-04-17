@@ -61,7 +61,6 @@ The purpose of this analysis was to determine what kind of machine learning mode
     - Precision score: 0.99
     - Recall score: 0.94
 
-
 ## Summary
 
 The precision scores for all 6 models were almost identical, all roughly 0.99. However, the precision and recall scores varied significantly. The model with the greatest precision and recall score was the Easy Ensemble Classifier model. An accuracy score and recall score of 0.99 and 0.94, respectively, place this model head and shoulders above the rest; the Easy Ensemble Classifier model's accuracy score is 0.14 higher than the second highest, and has the highest recall score as well. Therefore, the Easy Ensemble Classifier is the recommended model.
